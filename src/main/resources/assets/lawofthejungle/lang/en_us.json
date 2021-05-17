@@ -1,0 +1,12 @@
+{
+  "item.lawofthejungle.siamang_gibbon_spawn_egg": "Siamang Gibbon Spawn Egg",
+  "item.lawofthejungle.ring_tailed_lemur_spawn_egg": "Ring-Tailed Lemur Spawn Egg",
+
+  "entity.lawofthejungle.siamang_gibbon": "Siamang Gibbon",
+  "entity.lawofthejungle.ring_tailed_lemur": "Ring-Tailed Lemur",
+
+  "subtitle.lawofthejungle.siamang_gibbon.ambient": "Siamong Gibbon vocalizes",
+  "subtitle.lawofthejungle.siamang_gibbon.hurt": "Siamong Gibbon hurts",
+  "subtitle.lawofthejungle.siamang_gibbon.death": "Siamong Gibbon dies",
+  "subtitle.lawofthejungle.siamang_gibbon.booming": "Siamong Gibbon booms"
+}

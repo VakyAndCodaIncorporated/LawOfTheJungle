@@ -1,0 +1,10 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+[[mods]] #mandatory
+modId="lawofthejungle" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Law of the Jungle" #mandatory
+credits="Ninni, Coda, Vaky" #optional
+description='''
+Ooh ooh, ah ah.'''

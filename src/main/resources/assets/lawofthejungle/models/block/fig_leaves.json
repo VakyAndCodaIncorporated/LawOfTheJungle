@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "lawofthejungle:block/fig_leaves"
+  }
+}
